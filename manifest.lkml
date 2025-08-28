@@ -5,7 +5,7 @@ constant: connection_name {
 }
 
 constant: gcp_project {
-  value: "looker-private-demo"
+  value: "liuchristie-111-20250627151202"
 }
 
 constant: bq_dataset {

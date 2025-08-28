@@ -1,7 +1,7 @@
 include: "/views/*.view"
 include: "/derived_tables/*.view"
 include: "/dashboards/business_pulse.dashboard"
-include: "/dashboards/vibe_embed.dashboard"
+
 
 
 explore: order_items {
